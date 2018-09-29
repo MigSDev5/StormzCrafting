@@ -1,6 +1,6 @@
 <b> Stormz crafting menu </b>
 
-I not take any credits, they go to the creator of the script:<br>
+I not take any credits, they go to the creator of the script: <br>
 https://epochmod.com/forum/profile/34997-killerkiwi/
 
 Initial thread: <br>
