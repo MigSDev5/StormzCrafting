@@ -6,6 +6,8 @@ https://epochmod.com/forum/profile/34997-killerkiwi/
 Initial thread: <br>
 https://epochmod.com/forum/topic/44723-stormz-crafting-menu-fixed-and-up-dated/
 
+Credit to SpitFire for this good idea.
+
 <b>* Modifications:</b>
 - Adding buildings in the craft.
 
