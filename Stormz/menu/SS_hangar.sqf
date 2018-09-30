@@ -1,6 +1,6 @@
 private ["_hastools","_hasitems1","_hasitems2","_building","_ressource1","_ressource2"];
 
-_building   = "Land_A_Castle_Gate";
+_building   = "Land_SS_hangar";
 _ressource1 = ["equip_metal_sheet",3];
 _ressource2 = ["equip_metal_sheet_rusted",4];
 
